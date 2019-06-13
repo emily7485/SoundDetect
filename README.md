@@ -15,8 +15,6 @@
 
 ## Tech used
 
-Ex. -
-
 <b>Built with</b>
 - [Arduino IDE](https://electron.atom.io)
 - Sound
