@@ -1,4 +1,4 @@
-# Sound Detect and Haptic Feedback Wearable Device 
+## Sound Detect and Haptic Feedback Wearable Device 
 > A Sound **Detecting** & **Haptic Feedback** Wearable Device for the Hearing-Impaired.
 
 ## Build status
