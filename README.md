@@ -28,8 +28,6 @@ check out the [Getting Started](#) guide.
 
 ## Contribute
 
-If you want to report a Waypoints bug or contribute code to the library, please read the [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
 1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
 2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
 3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
