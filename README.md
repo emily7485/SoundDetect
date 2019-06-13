@@ -2,12 +2,12 @@
 
 > A Sound **Detecting** & **Haptic Feedback** Wearable Device for the Hearing-Impaired.
 
-## Build status
+## Features
 
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+- Sound Detect
+- Haptic Feddback
+- App nitification
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
  
 ## Screenshots
 
@@ -18,7 +18,10 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 Ex. -
 
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
+- [Arduino IDE](https://electron.atom.io)
+- Sound
+- BlunoNano
+- Android studio
 
 
 ## How to use?
