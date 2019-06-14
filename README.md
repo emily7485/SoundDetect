@@ -1,4 +1,4 @@
-## Sound Detect and Haptic Feedback Wearable Device 
+## Sound Detecting and Haptic Feedback Wearable Device 
 
 > A Sound **Detecting** & **Haptic Feedback** Wearable Device for the Hearing-Impaired.
 
@@ -10,21 +10,12 @@
 
  
 ## Screenshots
-
- [Demonstration video](https://youtu.be/sZo0_dYGKFw)
-
-## Tech used
-
-<b>Built with</b>
-- [Arduino IDE](https://electron.atom.io)
-- Sound
-- BlunoNano
-- Android studio
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sZo0_dYGKFw/0.jpg)](http://www.youtube.com/watch?v=sZo0_dYGKFw)
 
 
 ## How to use?
 
-check out the [Getting Started](#) guide.
+check out the [Getting Started](https://emily7485.github.io/2019/06/14/pj-sound/) guide.
 
 
 ## Built With
@@ -42,6 +33,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/emily7485/be9662f632063012
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/emily7485/22bbc7aa64f6c8ee33850ad88bafdfcf)file for details
+
 
 ```
