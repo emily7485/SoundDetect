@@ -27,15 +27,21 @@
 check out the [Getting Started](#) guide.
 
 
+## Built With
+
+* [Arduino IDE](https://www.arduino.cc/) - The arduino software used
+* [Android Studio](https://developer.android.com/studio/?gclid=EAIaIQobChMIuoHf5PHn4gIVhqqWCh1m5Av5EAAYASAAEgJjQ_D_BwE) - Used to make application
+* [Bluno Nano](https://www.dfrobot.com/product-1122.html?gclid=EAIaIQobChMIutTP8fHn4gIVF6mWCh1UawjxEAAYASAAEgKCGPD_BwE) - The main board
+* [SpeakUp 2 Click](https://www.mikroe.com/speakup-2-click) - Used to detect specific sound
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/emily7485/be9662f632063012c84f394ab0ff423b) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
-## Credits
-
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
-
 ## License
-Licensed under the [MIT license](https://github.com/imakewebthings/waypoints/blob/master/licenses.txt).
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+```
