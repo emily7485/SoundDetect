@@ -22,7 +22,7 @@ check out the [Getting Started](https://emily7485.github.io/2019/06/14/pj-sound/
 
 * [Arduino IDE](https://www.arduino.cc/) - The arduino software used
 * [Android Studio](https://developer.android.com/studio/?gclid=EAIaIQobChMIuoHf5PHn4gIVhqqWCh1m5Av5EAAYASAAEgJjQ_D_BwE) - Used to make application
-* [Bluno Nano](https://www.dfrobot.com/product-1122.html?gclid=EAIaIQobChMIutTP8fHn4gIVF6mWCh1UawjxEAAYASAAEgKCGPD_BwE) - The main board
+* [Bluno Nano](https://www.dfrobot.com/product-1122.html?gclid=EAIaIQobChMIutTP8fHn4gIVF6mWCh1UawjxEAAYASAAEgKCGPD_BwE) - The main board, same as Arduino Nano but able to use **Bluethooth**.
 * [SpeakUp 2 Click](https://www.mikroe.com/speakup-2-click) - Used to detect specific sound
 
 
