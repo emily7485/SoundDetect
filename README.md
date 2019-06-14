@@ -9,7 +9,7 @@
 - App notification
 
  
-## Screenshots
+## Demonstration Video
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sZo0_dYGKFw/0.jpg)](http://www.youtube.com/watch?v=sZo0_dYGKFw)
 
 
