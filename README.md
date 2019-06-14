@@ -6,7 +6,7 @@
 
 - Sound Detect
 - Haptic Feddback
-- App nitification
+- App notification
 
  
 ## Screenshots
