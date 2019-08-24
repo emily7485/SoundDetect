@@ -1,11 +1,11 @@
-## Sound Detecting and Haptic Feedback Wearable Device 
+## Sound Detection and Haptic Feedback Wearable Device 
 
 > A Sound **Detecting** & **Haptic Feedback** Wearable Device for the Hearing-Impaired.
 
 ## Features
 
-- Sound Detect
-- Haptic Feddback
+- Sound Detection
+- Haptic Feedback
 - App notification
 
  
