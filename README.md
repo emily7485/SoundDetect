@@ -15,7 +15,7 @@
 
 ## How to use?
 
-check out the [Getting Started](https://emily7485.github.io/2019/06/14/pj-sound/) guide.
+Check out the [Getting Started](https://emily7485.github.io/2019/06/14/pj-sound/) guide.
 
 
 ## Built With
