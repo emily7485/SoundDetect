@@ -9,8 +9,8 @@
 - App notification
 
  
-## Demonstration Video
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sZo0_dYGKFw/0.jpg)](http://www.youtube.com/watch?v=sZo0_dYGKFw)
+## Demonstration Video (Click below thumbnail image)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aPLyZ-kny4c/0.jpg)](https://youtu.be/aPLyZ-kny4c)
 
 
 ## How to use?
