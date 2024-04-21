@@ -33,5 +33,5 @@ Please read [CONTRIBUTING](https://gist.github.com/y0ungchoi/be9662f632063012c84
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://gist.github.com/y0ungchoi/22bbc7aa64f6c8ee33850ad88bafdfcf)file for details
+This project is licensed under the MIT License - see the [LICENSE](https://gist.github.com/y0ungchoi/22bbc7aa64f6c8ee33850ad88bafdfcf) file for details
 
